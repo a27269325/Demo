@@ -1,0 +1,407 @@
+[
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481890,
+            "changeTime": 1547796481890,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481891,
+            "changeTime": 1547796481891,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481970,
+            "changeTime": 1547796481970,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481898,
+            "changeTime": 1547796481898,
+            "contentHash": "67d822ca2207a222bc2801bf62dabcf939d8a585",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 474,
+            "modifiedTime": 1547796481897,
+            "changeTime": 1547796481897,
+            "contentHash": "955817c95581c485e53869780bcb869bd2b969e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1069,
+            "modifiedTime": 1547796481898,
+            "changeTime": 1547796481898,
+            "contentHash": "4328dbbac10441f331135e71c1a59d341d8985b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481899,
+            "changeTime": 1547796481899,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481948,
+            "changeTime": 1547796481948,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1547796481905,
+            "changeTime": 1547796481905,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 213,
+            "modifiedTime": 1547796481911,
+            "changeTime": 1547796481911,
+            "contentHash": "9e45fb2e167a25f207c6ef517d2929de38f3bbe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1547796481917,
+            "changeTime": 1547796481917,
+            "contentHash": "bb4829e9465c92e60b9a5018ddccab8ce0ee77c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1547796481923,
+            "changeTime": 1547796481923,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1547796481929,
+            "changeTime": 1547796481929,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1547796481935,
+            "changeTime": 1547796481935,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1547796481937,
+            "changeTime": 1547796481937,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1547796481942,
+            "changeTime": 1547796481942,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1547796481948,
+            "changeTime": 1547796481948,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481954,
+            "changeTime": 1547796481954,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 720,
+            "modifiedTime": 1547796481954,
+            "changeTime": 1547796481954,
+            "contentHash": "f24cb49dcbc2e6ebf756392047f7dc58ffeecdec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481969,
+            "changeTime": 1547796481969,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18963,
+            "modifiedTime": 1547796481956,
+            "changeTime": 1547796481956,
+            "contentHash": "0382c459c3639fa3e24966b349f4045d4bf5164c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4967,
+            "modifiedTime": 1547796481962,
+            "changeTime": 1547796481962,
+            "contentHash": "7d89dcc53d662cbfffec2a32dc98ea30c0922c01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4967,
+            "modifiedTime": 1547796481968,
+            "changeTime": 1547796481968,
+            "contentHash": "7d89dcc53d662cbfffec2a32dc98ea30c0922c01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5317,
+            "modifiedTime": 1547796481970,
+            "changeTime": 1547796481970,
+            "contentHash": "efa524ab1bf9019306fa193a17f873b0be1ee7f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481976,
+            "changeTime": 1547796481976,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1547796481976,
+            "changeTime": 1547796481976,
+            "contentHash": "00c7adb2d7145e2cee63e99c58931f9e721408d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lenovoNB\\Demo",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lenovoNB\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547796481981,
+            "changeTime": 1547796481981,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
